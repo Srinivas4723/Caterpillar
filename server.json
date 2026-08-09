@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Initial release",
+  "pub_date": "2026-08-09T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Srinivas4723/Caterpillar/blob/main/VantaTauri_0.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXd5S1M4b3VUR0R0eHFJNGh4U0JIS0hlOGNSWUo3ZGwwUCtTUzlPS2w3bXNtWDNYaDNSTXdaYjJwS2tWNlVWb3FvM3IwYmZOV2dpYU9qRThXRXJvMGNjdk1odkc3TlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjczOTM3CWZpbGU6VmFudGFUYXVyaV8wLjEuMF94NjQtc2V0dXAuZXhlCitaaFBqK2xURzZjYnlSL2thdE9xbnRncU5JZGNHRnhDU1J1NDI4bkZtTTVidUNFN2g0a3V3TDQxMDhwYTRvM1gzenNPcENQbWJwWWpYSytZSStsY0NnPT0K"
+    }
+  }
+}
